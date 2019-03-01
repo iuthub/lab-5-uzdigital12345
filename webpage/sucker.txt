@@ -1,0 +1,5 @@
+fasdafsd;MC;fasdf;MasterCard
+fdasf;MC;214;Visa
+fasdf;MC;123;Visa
+Khamidullokh;MB;1234;Visa
+Karim;MA;3522423;MasterCard
